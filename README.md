@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&BACKGROUND=#FFF" alt="romyull-islam" /></a> </p>
+<p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&theme=dracula" alt="romyull-islam" /></a> </p>
 
 
 - 🔭 I’m currematrixg on **Austin Peay State University**
