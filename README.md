@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&color=05a625&theme=light_lover" alt="romyull-islam" /></a> </p>
+<p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&color=05a625" alt="romyull-islam" /></a> </p>
 
 
 - 🔭 I’m currently working on **Austin Peay State University**
