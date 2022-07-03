@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&theme=gruvbox" alt="romyull-islam" /></a> </p>
 
 
-- 🔭 I’m currematrixg on **Austin Peay State University**
+- 🔭 I’m Graduate Reasearch and Teaching on **Austin Peay State University**
 
 - 🌱 I’m currently learning **Amazon Sagemaker**
 
