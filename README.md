@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Amazon Sagemaker**
 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NO9Fz0ugjlxBoFwtuilY4dg9-vPNdh6v/view?usp=sharing"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FCdjI1oNWy0tpkTAPqnilYVHMLgafvMU/view?usp=sharing"> Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
