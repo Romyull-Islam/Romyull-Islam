@@ -6,9 +6,9 @@
 <p align="center"> <a href="https://github.com/Romyull-Islam?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=romyull-islam&theme=gruvbox" alt="romyull-islam" /></a> </p>
 
 
-- 🔭 I’m Graduate Reasearch and Teaching on **Austin Peay State University**
+- 🔭 I’m Graduate Reasearch Assistant at **Kennesaw State University**
 
-- 🌱 I’m currently learning **Amazon Sagemaker**
+- 🌱 I’m currently working on **Edge Computing**
 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FCdjI1oNWy0tpkTAPqnilYVHMLgafvMU/view?usp=sharing"> Resume</a>
