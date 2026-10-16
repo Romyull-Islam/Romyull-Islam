@@ -8,7 +8,13 @@ I build efficient LLM inference systems for phones, edge devices and CXL hybrid 
   <a href="https://www.linkedin.com/in/romyull-islam/"><img src="https://img.shields.io/badge/LinkedIn-romyull--islam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-I design the mechanism, implement it in a real engine (llama.cpp) or a calibrated simulator, and measure throughput, energy and thermal behavior on real hardware: Snapdragon phones, NVIDIA GPUs, Jetson Orin, Raspberry Pi and CXL memory (CMM-H). I have 12 peer-reviewed papers, 4 of them first-authored, at ICPP, Euro-Par, IEEE MASS, IEEE AIoT and IPCCC.
+My research makes large language models run efficiently where memory, energy and heat are scarce:
+
+- **On-device LLM inference.** KV-cache management that keeps a model within a phone's memory, energy and thermal budget ([μKV](https://github.com/Romyull-Islam/EndurKV), my dissertation topic). Measurement studies of small language and vision-language models on Jetson Orin and Raspberry Pi (IEEE IPCCC 2024, IEEE MASS 2025).
+- **Memory systems for LLMs.** Splitting fast memory between model weights and prefetching on hybrid DRAM-NAND CXL devices ([SemSched](https://github.com/Romyull-Islam/SemSched)). Activation sparsity and delta prefetching to cut weight traffic (IPCCC 2024, Euro-Par 2025, ICPP 2026).
+- **Efficient fine-tuning.** Data-free per-layer precision allocation for quantized LoRA ([AQLoRA](https://github.com/Romyull-Islam/AQLoRA)).
+
+I build each idea into a real engine (llama.cpp) or a calibrated simulator, and measure it on Snapdragon phones, NVIDIA GPUs and edge boards. I have 12 peer-reviewed papers, 4 of them first-authored.
 
 ## Featured projects
 
