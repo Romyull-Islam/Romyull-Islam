@@ -16,10 +16,11 @@ I design the mechanism, implement it in a real engine (llama.cpp) or a calibrate
 |---|---|
 | [**μKV** (EndurKV)](https://github.com/Romyull-Islam/EndurKV) | KV-cache eviction with in-place compaction inside llama.cpp for LLM inference on a phone. 4.8x faster decode, 62% less energy and a 13x smaller cache on a Snapdragon 8 Elite Gen 5. C++, Android, Vulkan |
 | [**SemSched**](https://github.com/Romyull-Islam/SemSched) | Trades memory capacity for prefetch bandwidth in LLM inference on hybrid DRAM-NAND CXL devices. Leads four published offloading policies in all twelve configurations, on a simulator calibrated against gem5, DRAMsim3 and LLMCompass. Python |
-| [**Build, Train, Deploy**](https://github.com/Romyull-Islam/llm_booklet) | An open five-week LLM course in PyTorch: a transformer from scratch, mixture-of-experts, LoRA fine-tuning, tool-using agents with MCP, and RAG. |
-| [**MoE predictive prefetch**](https://github.com/Romyull-Islam/cxl-moe-predictive-prefetch) | Predicts which experts a mixture-of-experts LLM will activate a few layers ahead and prefetches them. Gives a 3.0–3.6x simulated per-token speedup on Mixtral, DeepSeek-MoE and Qwen-MoE. PyTorch |
+| [**AQLoRA**](https://github.com/Romyull-Islam/AQLoRA) | Zero-search per-layer precision allocation for quantized LoRA fine-tuning, set by one data-free CPU pass. Trains 11.1% faster than tuned QLoRA across six models from 1.4B to 14B. [arXiv:2608.23816](https://arxiv.org/abs/2608.23816). PyTorch, PEFT, bitsandbytes |
 | [**SLMs on the edge**](https://github.com/Romyull-Islam/SLM) | Data and scripts for the IEEE IPCCC 2024 paper on the performance of small language models on Raspberry Pi, Jetson Orin and Mac mini. |
 | [**VLM benchmarking**](https://github.com/Romyull-Islam/VLM-Benchmarking) | Accuracy, time and energy benchmarking of small vision-language models on Jetson AGX Orin, built on VLMEvalKit. |
+| [**Build, Train, Deploy**](https://github.com/Romyull-Islam/llm_booklet) | An open five-week LLM course in PyTorch: a transformer from scratch, mixture-of-experts, LoRA fine-tuning, tool-using agents with MCP, and RAG. |
+| [**MoE predictive prefetch**](https://github.com/Romyull-Islam/cxl-moe-predictive-prefetch) | Predicts which experts a mixture-of-experts LLM will activate a few layers ahead and prefetches them. Gives a 3.0–3.6x simulated per-token speedup on Mixtral, DeepSeek-MoE and Qwen-MoE. PyTorch |
 
 ## Selected publications
 
